@@ -1,0 +1,6 @@
+framework module one_login_pod {
+  umbrella header "one-login-pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

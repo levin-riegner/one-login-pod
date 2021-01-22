@@ -1,0 +1,16 @@
+PODS:
+  - one-login-pod (0.1.0)
+
+DEPENDENCIES:
+  - one-login-pod (from `../`)
+
+EXTERNAL SOURCES:
+  one-login-pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  one-login-pod: 4db6d2d2b97154b6dd0a4ef437ee1e0a1ed9938a
+
+PODFILE CHECKSUM: b53b58c1bd6165483d6bce814b5343369ed8c66a
+
+COCOAPODS: 1.9.3
