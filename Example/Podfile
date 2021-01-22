@@ -1,0 +1,6 @@
+use_frameworks!
+target 'one-login-pod_Tests' do
+  pod 'one-login-pod', :path => '../'
+  
+  
+end
