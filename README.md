@@ -20,6 +20,11 @@ it, simply add the following line to your Podfile:
 pod 'one-login-pod'
 ```
 
+or   
+```
+pod 'one-login-pod', :git => 'https://github.com/levin-riegner/one-login-pod'
+```
+
 ## Author
 
 Pedro Manfredi, barcelo.sk8@gmail.com
